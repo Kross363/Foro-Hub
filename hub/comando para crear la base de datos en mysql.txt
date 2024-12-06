@@ -1,0 +1,3 @@
+escribir esto en mysql
+
+CREATE DATABASE foro_hub;
